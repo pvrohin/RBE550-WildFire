@@ -2,7 +2,7 @@
 
 ![Valet Flow Chart](docs/imgs/RBE550_Valet_Flow_Chart.png)
 ![A* Pathfinding](videos/astar.gif)
-![PRM Pathfinding](videos/prm.gif)
+![PRM Pathfinding](PRM-2.gif)
 
 Welcome to the RBE550 Wildfire assignment repository. This simulation project involves an automated Mercedes fire truck with Ackermann steering in a high-speed environment. In this simulation, time is accelerated, where one second represents 5 seconds or more of real-time. The objective is to combat an arsonist who periodically ignites fires in the environment, leading to the rapid spread of flames to nearby trees.
 
